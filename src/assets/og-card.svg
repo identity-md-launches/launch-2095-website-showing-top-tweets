@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#0b1510"/><rect x="28" y="28" width="1144" height="574" rx="24" fill="#14241a" stroke="#2b4231"/><svg xmlns="http://www.w3.org/2000/svg" x="420" y="80" width="780" height="510" viewBox="0 0 720 400" fill="none">
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#376747" stroke-opacity=".25"/></pattern>
+ <linearGradient id="jacket" x1="330" y1="210" x2="440" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#38513f"/><stop offset="1" stop-color="#172c21"/></linearGradient>
+ <linearGradient id="skin" x1="380" y1="90" x2="530" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#9bb866"/><stop offset="1" stop-color="#698b45"/></linearGradient>
+ <linearGradient id="screen" x1="432" y1="246" x2="586" y2="369" gradientUnits="userSpaceOnUse"><stop stop-color="#213f30"/><stop offset="1" stop-color="#10291f"/></linearGradient>
+</defs>
+<path fill="url(#grid)" d="M0 0h720v400H0z"/>
+<circle cx="449" cy="194" r="159" stroke="#3c674c" stroke-width="1"/><circle cx="449" cy="194" r="140" stroke="#3c674c" stroke-dasharray="3 10"/>
+<path d="M13 298h106l34-35h103M490 43h105l39 38h86M12 87h87l34 34h74M630 318h70" stroke="#47694d"/><g fill="#9bc774"><circle cx="13" cy="298" r="3"/><circle cx="207" cy="121" r="3"/><circle cx="595" cy="43" r="3"/><circle cx="630" cy="318" r="3"/></g>
+<!-- Field agent, rear -->
+<path d="M129 405c-2-61 2-110 29-135l31-21 63-3 51 28 27 131" fill="#254033" stroke="#0d2118" stroke-width="5"/>
+<path d="m180 255 35 42 38-47m-39 47-12 108M158 278l16 33-15 94m111-128-20 31 18 97" stroke="#4d6c4d" stroke-width="4"/>
+<path d="M161 204c-19-20-18-62 3-84 10-12 32-17 49-5 19-23 51-19 63 1 13 22 13 48 3 64 25 33 18 67-14 78-32 13-79 2-103-21-10-10-13-24-1-33Z" fill="#759653" stroke="#10271c" stroke-width="5"/>
+<path d="M163 150c10-27 36-31 53-5m3-4c16-26 43-24 54 1" stroke="#4d6e3e" stroke-width="6" stroke-linecap="round"/>
+<path d="M165 158q24-15 46 1c-8 24-37 23-46-1Zm55-2q25-17 49-1c-10 24-38 23-49 1Z" fill="#e1e4c6" stroke="#213727" stroke-width="3"/>
+<path d="M191 154v15m53-16v15" stroke="#172b20" stroke-width="8"/>
+<path d="M166 211c27 4 53-4 89-3 23 1 25 19-3 23-34 6-65-2-83-8" fill="#b69b76" stroke="#304830" stroke-width="4" stroke-linecap="round"/>
+<path d="M150 165v-31c0-30 28-48 58-49 40-2 75 13 80 48l-3 31" stroke="#0d2118" stroke-width="17"/>
+<path d="M150 164v-25c0-27 27-44 58-45 40-1 69 14 72 43l-1 27" stroke="#546f51" stroke-width="7"/>
+<rect x="137" y="155" width="19" height="42" rx="7" fill="#152c21" stroke="#608052" stroke-width="3"/><path d="m146 191 14 39 27 3" stroke="#121f18" stroke-width="7" stroke-linecap="round"/>
+<rect x="181" y="226" width="21" height="11" rx="5" fill="#506e4b"/>
+<path d="m144 310 46 5-8 40-42-7Z" fill="#142c20" stroke="#54744c" stroke-width="2"/><path d="m155 325 17 2" stroke="#b3d583" stroke-width="3"/>
+<!-- Front agent -->
+<path d="M295 403c-16-47-11-95 11-126 14-20 42-32 59-34l103 3c36 7 69 39 79 74l15 83" fill="url(#jacket)" stroke="#0c2118" stroke-width="6"/>
+<path d="m351 252 56 71 50-72m-50 72-6 80M330 268l21 59-16 75m144-136-24 62 17 75" stroke="#6b7d56" stroke-width="4"/>
+<path d="m355 257 14-27 77-2 15 27-52 40Z" fill="#5e7e43" stroke="#203c29" stroke-width="4"/>
+<path d="M332 183c-18-17-19-59 1-84 16-20 43-20 60-5 18-20 52-24 74-10 26 16 33 47 22 71 30 15 39 43 23 63-24 31-90 49-137 25-23-11-48-31-43-60Z" fill="url(#skin)" stroke="#172d1e" stroke-width="5"/>
+<path d="M334 143c21-21 41-23 61-5m10-3c25-20 48-19 72-1" stroke="#52783f" stroke-width="7" stroke-linecap="round"/>
+<path d="M336 149q29-12 59-1c-9 24-49 26-59 1Zm72-7q34-13 65-1c-8 27-54 30-65 1Z" fill="#e7e7cb" stroke="#273b28" stroke-width="3"/>
+<path d="m374 146 1 15m64-21 1 16" stroke="#162b20" stroke-width="9" stroke-linecap="round"/>
+<path d="M348 203c38 5 72-13 113-8 38 4 32 23-1 29-36 8-74 1-106-7" fill="#c1a482" stroke="#4a5d37" stroke-width="4" stroke-linecap="round"/>
+<path d="M358 208c35 5 72-6 104-4" stroke="#6c6644" stroke-width="3" stroke-linecap="round"/>
+<!-- Neural visor and antenna -->
+<path d="m329 127-3-24c28-38 113-50 156-13l11 28" stroke="#172d21" stroke-width="15"/><path d="m331 109 25-18 65-9 49 12" stroke="#7b9060" stroke-width="5"/>
+<path d="m316 140 81-2 10 29-85 8Z" fill="#224e3a" fill-opacity=".8" stroke="#b6d881" stroke-width="2"/><path d="m326 149 19-2m-16 9 31-2m12-5 16-2" stroke="#bee692" stroke-width="2"/>
+<path d="M484 127v42" stroke="#11291e" stroke-width="18" stroke-linecap="round"/><path d="m488 123 9-37 26-9" stroke="#8ba768" stroke-width="4"/><circle cx="529" cy="75" r="7" fill="#c4e89a"/>
+<!-- Arm and AI terminal -->
+<path d="M313 308c-15 16-23 42-10 58 17 22 40 10 60-3l39-25-19-30-44 24" fill="#36513c" stroke="#152f20" stroke-width="5"/>
+<path d="m377 310 19-12c11-6 31 7 34 19 2 14-12 20-25 21l-14-1Z" fill="#7c9c55" stroke="#263e27" stroke-width="4"/>
+<path d="m406 265 140-15 42 116-145 21Z" fill="url(#screen)" stroke="#7a9869" stroke-width="4"/>
+<path d="m419 277 118-12 32 87-118 17Z" stroke="#3f6b4b" stroke-width="2"/>
+<path d="m459 309 37-5 13 31-38 5Z" fill="#b4d883" stroke="#b4d883" stroke-width="2"/>
+<g stroke="#90b96c" stroke-width="2"><path d="m466 302-3-10m13 9-3-10m12 8-4-10m22 17 11-1m-7 13 11-2m-7 12 10-1m-45 14 3 9m8-11 3 10m9-11 3 10m-37-25-10 1m7 11-10 1m6 9-9 2"/></g>
+<text x="471" y="330" fill="#1a3724" font-family="Arial,sans-serif" font-size="20" font-weight="700" transform="rotate(-7 471 330)">AI</text>
+<path d="m519 346 25-3m-86 11 34-4" stroke="#678f57" stroke-width="2"/>
+<!-- Scout drone -->
+<path d="m581 156 33 14-33 14-33-14Z" fill="#142d23" stroke="#709b67" stroke-width="2"/>
+<ellipse cx="554" cy="158" rx="23" ry="5" stroke="#507651" stroke-width="2"/><ellipse cx="612" cy="158" rx="23" ry="5" stroke="#507651" stroke-width="2"/>
+<path d="m555 158 18 16m37-16-18 16" stroke="#729b65" stroke-width="3"/><circle cx="581" cy="174" r="5" fill="#b4d883"/><path d="m581 190 12 40m-12-40-14 40" stroke="#a3c574" stroke-opacity=".3" stroke-dasharray="3 5"/>
+<!-- Ground -->
+<path d="M62 398h595" stroke="#567c52" stroke-width="2"/><path d="M89 382c25-3 39-1 49 7m433-4 56 3" stroke="#3d6244" stroke-width="3"/>
+<path d="M646 98h17m-8-8v17M71 199h17m-8-8v17M623 269h17m-8-8v17" stroke="#83ab66" stroke-width="2"/>
+</svg>
+<g font-family="Arial,sans-serif"><text x="82" y="112" fill="#b8dd82" font-weight="700" font-size="32">The Pond</text><text x="78" y="249" fill="#edf0df" font-weight="700" font-size="64" letter-spacing="-3">The swarm</text><text x="78" y="323" fill="#edf0df" font-weight="700" font-size="64" letter-spacing="-3">has a voice.</text><text x="82" y="385" fill="#c5cdbd" font-size="23">Top tweets about IdentityMD.</text><rect x="82" y="449" width="244" height="54" rx="8" fill="#b8dd82"/><text x="106" y="484" fill="#0b1510" font-size="20" font-weight="700">Explore the tweets ↗</text><text x="82" y="555" fill="#9bac99" font-size="17">An independent community board</text></g></svg>

@@ -1,0 +1,114 @@
+- generic [ref=f3e2]:
+  - link "Skip to tweets" [ref=f3e3] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f3e4]:
+    - link "The Pond home" [ref=f3e5] [cursor=pointer]:
+      - /url: "#feed"
+      - generic [ref=f3e6]: The Pond
+    - link "Explore IdentityMD (opens a new tab)" [ref=f3e8] [cursor=pointer]:
+      - /url: https://imd.fun
+  - generic [ref=f3e11]:
+    - complementary "Board navigation" [ref=f3e12]:
+      - navigation "Primary" [ref=f3e13]:
+        - link "Top tweets 8" [ref=f3e14] [cursor=pointer]:
+          - /url: "#feed"
+          - generic [ref=f3e17]: Top tweets
+          - generic [ref=f3e18]: "8"
+        - link "Saved tweets 0" [ref=f3e19] [cursor=pointer]:
+          - /url: "#saved"
+          - generic [ref=f3e22]: Saved tweets
+          - generic [ref=f3e23]: "0"
+        - button "About the board" [ref=f3e24] [cursor=pointer]
+    - main [ref=f3e27]:
+      - region [ref=f3e28]:
+        - generic [ref=f3e29]:
+          - heading "The swarm has a voice." [level=1] [ref=f3e30]
+          - paragraph [ref=f3e31]: Top tweets about IdentityMD.
+        - generic:
+          - img "Two Pepe agents equipped with a neural visor, an AI terminal and a scout drone."
+      - region [ref=f3e33]:
+        - generic [ref=f3e34]:
+          - heading "Top tweets 8" [level=2] [ref=f3e35]:
+            - text: Top tweets
+            - generic [ref=f3e36]: "8"
+          - generic [ref=f3e37]: 17 Oct 2026 snapshot
+        - generic [ref=f3e38]:
+          - generic [ref=f3e39]:
+            - generic [ref=f3e40]: Search tweets
+            - searchbox "Search tweets" [ref=f3e45]
+          - generic [ref=f3e46]:
+            - generic [ref=f3e47]: Sort by
+            - combobox "Sort by" [ref=f3e48] [cursor=pointer]:
+              - option "Most liked" [selected]
+              - option "Most reposted"
+              - option "Newest"
+        - group "Filter tweets by topic" [ref=f3e49]:
+          - button "All posts" [ref=f3e50] [cursor=pointer]
+          - button "Builds" [ref=f3e51] [cursor=pointer]
+          - button "Swarm" [active] [pressed] [ref=f3e52] [cursor=pointer]
+          - button "Community" [ref=f3e53] [cursor=pointer]
+        - generic [ref=f3e54]:
+          - status [ref=f3e55]: 2 tweets about swarm
+          - button "How they’re ranked" [ref=f3e56] [cursor=pointer]
+        - generic [ref=f3e59]:
+          - article "Tweet by Adam" [ref=f3e134]:
+            - generic [ref=f3e135]:
+              - link [ref=f3e136] [cursor=pointer]:
+                - /url: https://x.com/surfcoderepeat
+                - generic [ref=f3e137]:
+                  - strong [ref=f3e138]: Adam
+                  - generic [ref=f3e139]:
+                    - text: "@surfcoderepeat"
+                    - time [ref=f3e141]: Oct 9
+              - 'link "Read on X : tweet by Adam (opens a new tab)" [ref=f3e142] [cursor=pointer]':
+                - /url: https://x.com/surfcoderepeat/status/2108565127037669756
+                - text: Read on X
+                - generic [ref=f3e145]: ": tweet by Adam (opens a new tab)"
+            - blockquote [ref=f3e146]:
+              - paragraph [ref=f3e147]: also will spend time automating everything so less dependent and trust on me
+            - generic [ref=f3e148]:
+              - generic [ref=f3e149]: Swarm
+              - generic [ref=f3e154]: "Excerpt · Likes rank #3"
+            - generic "Recorded engagement" [ref=f3e155]:
+              - generic "103 likes" [ref=f3e156]: "103"
+              - generic "16 reposts" [ref=f3e159]: "16"
+              - generic "12 replies" [ref=f3e162]: "12"
+              - generic "10516 views" [ref=f3e165]: 10.5K
+              - button "Save tweet by Adam" [ref=f3e169] [cursor=pointer]
+          - article "Tweet by Gothsa" [ref=f3e245]:
+            - generic [ref=f3e246]:
+              - link [ref=f3e247] [cursor=pointer]:
+                - /url: https://x.com/nftgothsa
+                - generic [ref=f3e248]:
+                  - strong [ref=f3e249]: Gothsa
+                  - generic [ref=f3e250]:
+                    - text: "@nftgothsa"
+                    - time [ref=f3e252]: Oct 8
+              - 'link "Read on X : tweet by Gothsa (opens a new tab)" [ref=f3e253] [cursor=pointer]':
+                - /url: https://x.com/nftgothsa/status/2108220016885743643
+                - text: Read on X
+                - generic [ref=f3e256]: ": tweet by Gothsa (opens a new tab)"
+            - blockquote [ref=f3e257]:
+              - paragraph [ref=f3e258]: A super cool guide by @taylor_ on how to join the $imd swarm. Love the video!
+            - generic [ref=f3e259]:
+              - generic [ref=f3e260]: Swarm
+              - generic [ref=f3e265]: "Excerpt · Likes rank #6"
+            - generic "Recorded engagement" [ref=f3e266]:
+              - generic "12 likes" [ref=f3e267]: "12"
+              - generic "1 reposts" [ref=f3e270]: "1"
+              - generic "0 replies" [ref=f3e273]: "0"
+              - generic "512 views" [ref=f3e276]: "512"
+              - button "Save tweet by Gothsa" [ref=f3e280] [cursor=pointer]
+        - generic [ref=f3e357]:
+          - paragraph [ref=f3e361]: You’re all caught up.
+          - generic [ref=f3e362]: More voices are just a click away.
+          - link "Keep exploring on X" [ref=f3e363] [cursor=pointer]:
+            - /url: https://x.com/search?q=%22identity.md%22%20OR%20%24IMD&src=typed_query&f=top
+      - generic [ref=f3e366]:
+        - link "The Pond © 2026" [ref=f3e367] [cursor=pointer]:
+          - /url: "#feed"
+          - text: The Pond
+          - generic [ref=f3e368]: © 2026
+        - generic [ref=f3e369]: An independent community board. Not affiliated with X.
+        - button "Sources & methodology" [ref=f3e370] [cursor=pointer]
+  - status [ref=f3e373]
